@@ -22,6 +22,5 @@
 <mappers>
     <mapper resource="User.xml"/>
     <mapper resource="Student.xml"/>
-    <mapper resource="StudentsMapper.xml"/>
 </mappers>
 </configuration>
